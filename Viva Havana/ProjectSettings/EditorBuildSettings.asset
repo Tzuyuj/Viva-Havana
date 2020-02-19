@@ -12,6 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Plaza de la Catedral.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/Scenes/Launcher.unity
     guid: 5c88ed1995d684f0eb7f8ce09d9377aa
   - enabled: 1
@@ -26,4 +27,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Room for 4.unity
     guid: 853f72a9c694b45b18711e23984ef3d8
+=======
+    path: Assets/Scenes/New Scene.unity
+    guid: b0df762aa0eaa8b42adc787e3267cd2d
+>>>>>>> 3ddf49fbf256e46588bcd38efe79bdb880ee1821
   m_configObjects: {}
